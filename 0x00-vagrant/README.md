@@ -1,0 +1,1 @@
+The command "uname" stands for UNIX name. It is used to check the system information of your Linux computer. The uname command is commonly used to checks OS details, OS architecture (32 bit or 64 bit), Linux Kernel version, and Kernel release
